@@ -7,4 +7,4 @@ res.send('Welcome To World rest api')
 
 })
 
-app.listen(9070,()=>console.log('server started'))
+app.listen(9060,()=>console.log('server started'))
